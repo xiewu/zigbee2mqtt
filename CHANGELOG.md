@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.3.1](https://github.com/Koenkk/zigbee2mqtt/compare/2.3.0...2.3.1) (2025-05-04)
+
+
+### Bug Fixes
+
+* **ignore:** Cleanup publish options ([#27226](https://github.com/Koenkk/zigbee2mqtt/issues/27226)) ([b7b92da](https://github.com/Koenkk/zigbee2mqtt/commit/b7b92da8ffbaa25ce5927cb6dbf12f9da593a2e0))
+* **ignore:** update zigbee-herdsman-converters to 23.37.0 ([#27300](https://github.com/Koenkk/zigbee2mqtt/issues/27300)) ([ff823db](https://github.com/Koenkk/zigbee2mqtt/commit/ff823dbaf0b9818be83b0e3ba02073b1afcd439d))
+* **ignore:** update zigbee2mqtt-frontend to 0.9.11 ([#27301](https://github.com/Koenkk/zigbee2mqtt/issues/27301)) ([3cb63aa](https://github.com/Koenkk/zigbee2mqtt/commit/3cb63aa9229a3b4a0f099ce3f8481badf241e202))
+* Improve update script ([#27308](https://github.com/Koenkk/zigbee2mqtt/issues/27308)) ([3cbcc4a](https://github.com/Koenkk/zigbee2mqtt/commit/3cbcc4a0abbe1cb09096d0b989abba48acea8772))
+* Only send JSON state over WebSocket ([#27225](https://github.com/Koenkk/zigbee2mqtt/issues/27225)) ([39e4468](https://github.com/Koenkk/zigbee2mqtt/commit/39e4468308c1909f03ecd068f5c7da23b040f80b))
+
 ## [2.3.0](https://github.com/Koenkk/zigbee2mqtt/compare/2.2.1...2.3.0) (2025-05-01)
 
 
